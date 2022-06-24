@@ -1,5 +1,4 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 "spider":"http://124.221.191.243/files/api/public/dl/tH-N-fvt",
 
@@ -10,10 +9,12 @@
 
 "sites":[
 
-{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/zxzj2.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/jubaibai.json"},
 {"key":"csp_xpath_唐人街","name":"唐人街(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/Renjie.json"},
+{"key":"csp_xpath_348z","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/348z.json"},
+{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/naifeiorg.json"},
+{"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/zaixiandianying8.json"},
 
   //{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/auete.json"},
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/chongtmtv.json"},
@@ -25,12 +26,10 @@
 {"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/yanet.json"},
 {"key":"csp_xpath_Ole","name":"欧乐(XPF)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/olevod.json"},
 {"key":"csp_xpath_xxys520","name":"小熊影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/xxys520.json"},
-{"key":"csp_xpath_348z","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/348z.json"},
 //{"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/tvci.json"},
 //{"key":"csp_xpath_meiju56","name":"美剧网(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/meiju562.json"},
 {"key":"csp_xpath_Gimy","name":"GIMY影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/Gimy.json"},
 {"key":"csp_xpath_Gimy2","name":"GimyTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/Gimy2.json"},
-{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/naifeiorg.json"},
 {"key":"csp_xpath_ttsp","name":"天天视频(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/ttsp.json"},
 {"key":"csp_xpath_789kp","name":"789看片(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/789kp.json"},
 {"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/jpys.json"},
@@ -52,7 +51,6 @@
 {"key":"csp_xpath_wanmeikk","name":"完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/wanmeikk.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/saohuotv2.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/lezhutv.json"},
-{"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/zaixiandianying8.json"},
 {"key":"csp_xpath_zzzlike","name":"周末电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/zzzlike.json"},
 {"key":"csp_xpath_135kan","name":"135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/135kan.json"},
 {"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/KurisuZhang/xiaomao/master/baddychen0608/MeowXP/xfeiji.json"},
